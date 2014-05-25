@@ -1,0 +1,11 @@
+// files and directory should not add to git .
+
+*.bak
+
+Debug/
+Release/
+
+*.obj
+*.sdf
+*.suo
+*.o
